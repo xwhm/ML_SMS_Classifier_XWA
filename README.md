@@ -61,7 +61,7 @@ SMS Text Classifier based on machine learning
 ###### - BERT - XWA-03-11-2021
 ###### - Word2Vec via tok2 -XWA-03.11.21
 
-# Step 1
+## Schritt 1
 nltk.download('all') 
 
 ## -------- Further steps in Anaconda Prompt --------
